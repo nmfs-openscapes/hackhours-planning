@@ -1,3 +1,7 @@
+# June-July 2025 NOAA HackHours
+
+## Topic: LLMs and ML models
+
 Add a PR for a speaker suggestion. Make sure to add a POC (point of contact) who will coordinate with the speaker. The facilitator runs the meeting. 
 Usually Eli, but she might be out some weeks.
 
