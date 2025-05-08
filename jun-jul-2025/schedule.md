@@ -1,4 +1,8 @@
-# June-July 2025 NOAA HackHours
+# June-July 2025 Openscapes HackHours (Joint NOAA/NASA)
+
+## Register
+
+Zoom <need to set up>
 
 ## Topic: LLMs and ML models
 
