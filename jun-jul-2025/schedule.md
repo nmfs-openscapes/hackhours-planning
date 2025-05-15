@@ -2,7 +2,7 @@
 
 ## Register
 
-Zoom <need to set up>
+One-time [registration via Zoom](https://zoom.us/meeting/register/Om99ecCMSrqepyDVDJ7bBA) gives you an email with link to join any of the sessions.
 
 ## Topic: LLMs and ML models
 
