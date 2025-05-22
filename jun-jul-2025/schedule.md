@@ -12,9 +12,8 @@ Add a PR for a speaker suggestion. Make sure to add a POC (point of contact) who
 
 | date | description | speaker | POC | facilitator | note |
 |:----------:|:-----------:|:-------:|:---:|:-----:|:-----:|
-| 2025-05-30 |             |         |     | Eli Holmes |       |
-| 2025-06-06 | CNNs for Ocean Data 1 | Eli Holmes | Eli Holmes | Eli Holmes | I can shift days |
-| 2025-06-13 | CNNs for Ocean Data 2: UNet models for gap-filling  | Eli Holmes | Eli Holmes | Eli Holmes | I can shift days |
+| 2025-06-06 | CNNs for Ocean Data 1 | Eli Holmes | Eli Holmes | Eli Holmes | We will train a basic CNN on SST data and make predictions. |
+| 2025-06-13 | CNNs for Ocean Data 2: UNet models for gap-filling  | Eli Holmes | Eli Holmes | Eli Holmes | We will use a UNet model for filling gaps in remote-sensing data. |
 | 2025-06-20 |             |         |     | Eli Holmes|       |
 | 2025-06-27 | Writing R code with the help of LLMs | Simon P. Couch | Andy Teucher | Eli Holmes|       |
 | 2025-07-04 |     NO HACKHOUR; HOLIDAY        |  ---  |  --- |  ---  | --- |
