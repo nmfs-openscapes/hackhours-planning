@@ -8,6 +8,8 @@ One-time [registration via Zoom](https://zoom.us/meeting/register/Om99ecCMSrqepy
 
 Add a PR for a speaker suggestion. Make sure to add a POC (point of contact) who will coordinate with the speaker = invite them, answer their questions, and add link to a github repo with their tutorials added to table. The facilitator runs the meeting and doesn't need to be the POC. The speaker and POC might be the same person. Usually Eli will facilitate during the actual meeting, but she might be out some weeks. 
 
+**Fridays at 11am Pacific**
+
 | date | description | speaker | POC | facilitator | note |
 |:----------:|:-----------:|:-------:|:---:|:-----:|:-----:|
 | 2025-05-30 |             |         |     | Eli Holmes |       |
