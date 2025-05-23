@@ -18,5 +18,5 @@ Add a PR for a speaker suggestion. Make sure to add a POC (point of contact) who
 | 2025-06-27 | Writing R code with the help of LLMs | Simon P. Couch | Andy Teucher | Eli Holmes|       |
 | 2025-07-04 |     NO HACKHOUR; HOLIDAY        |  ---  |  --- |  ---  | --- |
 | 2025-07-11 |             |         |     | Eli Holmes |       |
-| 2025-07-18 |             |         |     | Eli Holmes |       |
-| 2025-07-25 |             |         |     |    Eli is out; need facilitator sub   |       |
+| 2025-07-18 |    |         |     | Eli Holmes |       |
+| 2025-07-25 |  vision CNN models: a simple workflow process for fine-tuning a foundational model   |   [Michael Akridge](https://github.com/michaelakridge-noaa)     |     |   TBD; Eli might be out    |   <https://michaelakridge-noaa.github.io/ai4me-cookbook>    |
